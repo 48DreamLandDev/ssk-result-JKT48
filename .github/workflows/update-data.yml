@@ -1,6 +1,3 @@
-# This workflow will update the theater.json file every minute
-# For more information see: https://help.github.com/actions/language-and-framework-guides/using-nodejs-with-github-actions
-
 name: Update SSK Data
 
 on:
@@ -31,14 +28,33 @@ jobs:
     # Install dependencies
     - run: npm ci
 
-    # Run the script to update the ssk.json
+    # Run the script to update the files
     - name: Run Update Script
       run: node index.js
 
-    # Update ssk.json file and push the changes
-    - name: Update ssk.json on GitHub
+    # Update SSK_1.json on GitHub
+    - name: Update SSK_1.json on GitHub
       uses: test-room-7/action-update-file@v1
       with:
-        commit-msg: Update ssk.json
+        file-path: SSK_1.json
+        commit-msg: Update SSK_1.json
+        github-token: ${{ secrets.GH_TOKEN }}
+        branch: main
+
+    # Update SSK_2.json on GitHub
+    - name: Update SSK_2.json on GitHub
+      uses: test-room-7/action-update-file@v1
+      with:
+        file-path: SSK_2.json
+        commit-msg: Update SSK_2.json
+        github-token: ${{ secrets.GH_TOKEN }}
+        branch: main
+
+    # Update SSK_3.json on GitHub
+    - name: Update SSK_3.json on GitHub
+      uses: test-room-7/action-update-file@v1
+      with:
+        file-path: SSK_3.json
+        commit-msg: Update SSK_3.json
         github-token: ${{ secrets.GH_TOKEN }}
         branch: main
