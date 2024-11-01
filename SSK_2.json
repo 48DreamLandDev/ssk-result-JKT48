@@ -1,313 +1,151 @@
 [
   {
     "periode": 2,
-    "date": null,
-    "time": null
+    "date": "29 Oktober 2024",
+    "time": "23.59 WIB."
   },
   {
     "rank": "1",
     "name": "Feni Fitriyanti",
-    "votes": "31.520 Suara",
+    "votes": "77.770 Suara",
     "image": "https://ssk.jkt48.com/2024/_next/image?url=%2F2024%2Fassets%2Fimg%2Fmember%2Ffeni-fitriyanti%2Fresult.png&w=256&q=75"
   },
   {
     "rank": "2",
     "name": "Angelina Christy",
-    "votes": "24.020 Suara",
+    "votes": "62.487 Suara",
     "image": "https://ssk.jkt48.com/2024/_next/image?url=%2F2024%2Fassets%2Fimg%2Fmember%2Fangelina-christy%2Fresult.png&w=256&q=75"
   },
   {
     "rank": "3",
-    "name": "Mutiara Azzahra",
-    "votes": "23.696 Suara",
-    "image": "https://ssk.jkt48.com/2024/_next/image?url=%2F2024%2Fassets%2Fimg%2Fmember%2Fmutiara-azzahra%2Fresult.png&w=256&q=75"
-  },
-  {
-    "rank": "4",
-    "name": "Gita Sekar Andarini",
-    "votes": "18.307 Suara",
-    "image": "https://ssk.jkt48.com/2024/_next/image?url=%2F2024%2Fassets%2Fimg%2Fmember%2Fgita-sekar%2Fresult.png&w=256&q=75"
-  },
-  {
-    "rank": "5",
-    "name": "Freya Jayawardana",
-    "votes": "17.867 Suara",
-    "image": "https://ssk.jkt48.com/2024/_next/image?url=%2F2024%2Fassets%2Fimg%2Fmember%2Ffreya-jayawardana%2Fresult.png&w=256&q=75"
-  },
-  {
-    "rank": "6",
-    "name": "Jessica Chandra",
-    "votes": "13.924 Suara",
-    "image": "https://ssk.jkt48.com/2024/_next/image?url=%2F2024%2Fassets%2Fimg%2Fmember%2Fjessica-chandra%2Fresult.png&w=256&q=75"
-  },
-  {
-    "rank": "7",
-    "name": "Marsha Lenathea",
-    "votes": "13.326 Suara",
-    "image": "https://ssk.jkt48.com/2024/_next/image?url=%2F2024%2Fassets%2Fimg%2Fmember%2Fmarsha-lenathea%2Fresult.png&w=256&q=75"
-  },
-  {
-    "rank": "8",
-    "name": "Shania Gracia",
-    "votes": "12.910 Suara",
-    "image": "https://ssk.jkt48.com/2024/_next/image?url=%2F2024%2Fassets%2Fimg%2Fmember%2Fshania-gracia%2Fresult.png&w=256&q=75"
-  },
-  {
-    "rank": "9",
     "name": "Fiony Alveria",
-    "votes": "10.362 Suara",
+    "votes": "50.830 Suara",
     "image": "https://ssk.jkt48.com/2024/_next/image?url=%2F2024%2Fassets%2Fimg%2Fmember%2Ffiony-alveria%2Fresult.png&w=256&q=75"
   },
   {
+    "rank": "4",
+    "name": "Freya Jayawardana",
+    "votes": "40.026 Suara",
+    "image": "https://ssk.jkt48.com/2024/_next/image?url=%2F2024%2Fassets%2Fimg%2Fmember%2Ffreya-jayawardana%2Fresult.png&w=256&q=75"
+  },
+  {
+    "rank": "5",
+    "name": "Jessica Chandra",
+    "votes": "39.643 Suara",
+    "image": "https://ssk.jkt48.com/2024/_next/image?url=%2F2024%2Fassets%2Fimg%2Fmember%2Fjessica-chandra%2Fresult.png&w=256&q=75"
+  },
+  {
+    "rank": "6",
+    "name": "Shania Gracia",
+    "votes": "34.101 Suara",
+    "image": "https://ssk.jkt48.com/2024/_next/image?url=%2F2024%2Fassets%2Fimg%2Fmember%2Fshania-gracia%2Fresult.png&w=256&q=75"
+  },
+  {
+    "rank": "7",
+    "name": "Gita Sekar Andarini",
+    "votes": "32.559 Suara",
+    "image": "https://ssk.jkt48.com/2024/_next/image?url=%2F2024%2Fassets%2Fimg%2Fmember%2Fgita-sekar%2Fresult.png&w=256&q=75"
+  },
+  {
+    "rank": "8",
+    "name": "Mutiara Azzahra",
+    "votes": "31.241 Suara",
+    "image": "https://ssk.jkt48.com/2024/_next/image?url=%2F2024%2Fassets%2Fimg%2Fmember%2Fmutiara-azzahra%2Fresult.png&w=256&q=75"
+  },
+  {
+    "rank": "9",
+    "name": "Marsha Lenathea",
+    "votes": "26.135 Suara",
+    "image": "https://ssk.jkt48.com/2024/_next/image?url=%2F2024%2Fassets%2Fimg%2Fmember%2Fmarsha-lenathea%2Fresult.png&w=256&q=75"
+  },
+  {
     "rank": "10",
-    "name": "Grace Octaviani",
-    "votes": "9.564 Suara",
-    "image": "https://ssk.jkt48.com/2024/_next/image?url=%2F2024%2Fassets%2Fimg%2Fmember%2Fgrace-octaviani%2Fresult.png&w=256&q=75"
+    "name": "Lulu Salsabila",
+    "votes": "24.271 Suara",
+    "image": "https://ssk.jkt48.com/2024/_next/image?url=%2F2024%2Fassets%2Fimg%2Fmember%2Flulu-salsabila%2Fresult.png&w=256&q=75"
   },
   {
     "rank": "11",
     "name": "Indah Cahya",
-    "votes": "8.586 Suara",
+    "votes": "21.538 Suara",
     "image": "https://ssk.jkt48.com/2024/_next/image?url=%2F2024%2Fassets%2Fimg%2Fmember%2Findah-cahya%2Fresult.png&w=256&q=75"
   },
   {
     "rank": "12",
-    "name": "Cornelia Vanisa",
-    "votes": "8.270 Suara",
-    "image": "https://ssk.jkt48.com/2024/_next/image?url=%2F2024%2Fassets%2Fimg%2Fmember%2Fcornelia-vanisa%2Fresult.png&w=256&q=75"
-  },
-  {
-    "rank": "13",
-    "name": "Aurellia",
-    "votes": "7.151 Suara",
-    "image": "https://ssk.jkt48.com/2024/_next/image?url=%2F2024%2Fassets%2Fimg%2Fmember%2Faurellia%2Fresult.png&w=256&q=75"
-  },
-  {
-    "rank": "14",
-    "name": "Flora Shafiq",
-    "votes": "7.144 Suara",
-    "image": "https://ssk.jkt48.com/2024/_next/image?url=%2F2024%2Fassets%2Fimg%2Fmember%2Fflora-shafiq%2Fresult.png&w=256&q=75"
-  },
-  {
-    "rank": "15",
-    "name": "Greesella Adhalia",
-    "votes": "6.984 Suara",
-    "image": "https://ssk.jkt48.com/2024/_next/image?url=%2F2024%2Fassets%2Fimg%2Fmember%2Fgreesella-adhalia%2Fresult.png&w=256&q=75"
-  },
-  {
-    "rank": "16",
-    "name": "Helisma Putri",
-    "votes": "6.790 Suara",
-    "image": "https://ssk.jkt48.com/2024/_next/image?url=%2F2024%2Fassets%2Fimg%2Fmember%2Fhelisma-putri%2Fresult.png&w=256&q=75"
-  },
-  {
-    "rank": "17",
-    "name": "Kathrina Irene",
-    "votes": "6.551 Suara",
-    "image": "https://ssk.jkt48.com/2024/_next/image?url=%2F2024%2Fassets%2Fimg%2Fmember%2Fkathrina-irene%2Fresult.png&w=256&q=75"
-  },
-  {
-    "rank": "18",
-    "name": "Gabriela Abigail",
-    "votes": "6.490 Suara",
-    "image": "https://ssk.jkt48.com/2024/_next/image?url=%2F2024%2Fassets%2Fimg%2Fmember%2Fgabriela-abigail%2Fresult.png&w=256&q=75"
-  },
-  {
-    "rank": "19",
-    "name": "Febriola Sinambela",
-    "votes": "6.282 Suara",
-    "image": "https://ssk.jkt48.com/2024/_next/image?url=%2F2024%2Fassets%2Fimg%2Fmember%2Ffebriola-sinambela%2Fresult.png&w=256&q=75"
-  },
-  {
-    "rank": "20",
-    "name": "Catherina Vallencia",
-    "votes": "5.592 Suara",
-    "image": "https://ssk.jkt48.com/2024/_next/image?url=%2F2024%2Fassets%2Fimg%2Fmember%2Fcatherina-vallencia%2Fresult.png&w=256&q=75"
-  },
-  {
-    "rank": "21",
-    "name": "Aurhel Alana",
-    "votes": "5.549 Suara",
-    "image": "https://ssk.jkt48.com/2024/_next/image?url=%2F2024%2Fassets%2Fimg%2Fmember%2Faurhel-alana%2Fresult.png&w=256&q=75"
-  },
-  {
-    "rank": "22",
-    "name": "Indira Seruni",
-    "votes": "5.373 Suara",
-    "image": "https://ssk.jkt48.com/2024/_next/image?url=%2F2024%2Fassets%2Fimg%2Fmember%2Findira-seruni%2Fresult.png&w=256&q=75"
-  },
-  {
-    "rank": "23",
-    "name": "Celline Thefani",
-    "votes": "5.195 Suara",
-    "image": "https://ssk.jkt48.com/2024/_next/image?url=%2F2024%2Fassets%2Fimg%2Fmember%2Fcelline-thefani%2Fresult.png&w=256&q=75"
-  },
-  {
-    "rank": "24",
     "name": "Cathleen Nixie",
-    "votes": "4.969 Suara",
+    "votes": "21.440 Suara",
     "image": "https://ssk.jkt48.com/2024/_next/image?url=%2F2024%2Fassets%2Fimg%2Fmember%2Fcathleen-nixie%2Fresult.png&w=256&q=75"
   },
   {
-    "rank": "25",
-    "name": "Abigail Rachel",
-    "votes": "0 Suara",
-    "image": "https://ssk.jkt48.com/2024/_next/image?url=%2F2024%2Fassets%2Fimg%2Fmember%2Fabigail-rachel%2Fresult.png&w=256&q=75"
+    "rank": "13",
+    "name": "Aurhel Alana",
+    "votes": "21.314 Suara",
+    "image": "https://ssk.jkt48.com/2024/_next/image?url=%2F2024%2Fassets%2Fimg%2Fmember%2Faurhel-alana%2Fresult.png&w=256&q=75"
   },
   {
-    "rank": "26",
-    "name": "Adeline Wijaya",
-    "votes": "0 Suara",
-    "image": "https://ssk.jkt48.com/2024/_next/image?url=%2F2024%2Fassets%2Fimg%2Fmember%2Fadeline-wijaya%2Fresult.png&w=256&q=75"
+    "rank": "14",
+    "name": "Cornelia Vanisa",
+    "votes": "20.902 Suara",
+    "image": "https://ssk.jkt48.com/2024/_next/image?url=%2F2024%2Fassets%2Fimg%2Fmember%2Fcornelia-vanisa%2Fresult.png&w=256&q=75"
   },
   {
-    "rank": "27",
-    "name": "Alya Amanda",
-    "votes": "0 Suara",
-    "image": "https://ssk.jkt48.com/2024/_next/image?url=%2F2024%2Fassets%2Fimg%2Fmember%2Falya-amanda%2Fresult.png&w=256&q=75"
+    "rank": "15",
+    "name": "Aurellia",
+    "votes": "20.616 Suara",
+    "image": "https://ssk.jkt48.com/2024/_next/image?url=%2F2024%2Fassets%2Fimg%2Fmember%2Faurellia%2Fresult.png&w=256&q=75"
   },
   {
-    "rank": "28",
-    "name": "Amanda Sukma",
-    "votes": "0 Suara",
-    "image": "https://ssk.jkt48.com/2024/_next/image?url=%2F2024%2Fassets%2Fimg%2Fmember%2Famanda-sukma%2Fresult.png&w=256&q=75"
+    "rank": "16",
+    "name": "Kathrina Irene",
+    "votes": "18.025 Suara",
+    "image": "https://ssk.jkt48.com/2024/_next/image?url=%2F2024%2Fassets%2Fimg%2Fmember%2Fkathrina-irene%2Fresult.png&w=256&q=75"
   },
   {
-    "rank": "29",
-    "name": "Anindya Ramadhani",
-    "votes": "0 Suara",
-    "image": "https://ssk.jkt48.com/2024/_next/image?url=%2F2024%2Fassets%2Fimg%2Fmember%2Fanindya-ramadhani%2Fresult.png&w=256&q=75"
+    "rank": "17",
+    "name": "Grace Octaviani",
+    "votes": "17.777 Suara",
+    "image": "https://ssk.jkt48.com/2024/_next/image?url=%2F2024%2Fassets%2Fimg%2Fmember%2Fgrace-octaviani%2Fresult.png&w=256&q=75"
   },
   {
-    "rank": "30",
-    "name": "Callista Alifia",
-    "votes": "0 Suara",
-    "image": "https://ssk.jkt48.com/2024/_next/image?url=%2F2024%2Fassets%2Fimg%2Fmember%2Fcallista-alifia%2Fresult.png&w=256&q=75"
+    "rank": "18",
+    "name": "Catherina Vallencia",
+    "votes": "16.830 Suara",
+    "image": "https://ssk.jkt48.com/2024/_next/image?url=%2F2024%2Fassets%2Fimg%2Fmember%2Fcatherina-vallencia%2Fresult.png&w=256&q=75"
   },
   {
-    "rank": "31",
-    "name": "Chelsea Davina",
-    "votes": "0 Suara",
-    "image": "https://ssk.jkt48.com/2024/_next/image?url=%2F2024%2Fassets%2Fimg%2Fmember%2Fchelsea-davina%2Fresult.png&w=256&q=75"
+    "rank": "19",
+    "name": "Flora Shafiq",
+    "votes": "16.378 Suara",
+    "image": "https://ssk.jkt48.com/2024/_next/image?url=%2F2024%2Fassets%2Fimg%2Fmember%2Fflora-shafiq%2Fresult.png&w=256&q=75"
   },
   {
-    "rank": "32",
-    "name": "Cynthia Yaputera",
-    "votes": "0 Suara",
-    "image": "https://ssk.jkt48.com/2024/_next/image?url=%2F2024%2Fassets%2Fimg%2Fmember%2Fcynthia-yaputera%2Fresult.png&w=256&q=75"
+    "rank": "20",
+    "name": "Helisma Putri",
+    "votes": "15.925 Suara",
+    "image": "https://ssk.jkt48.com/2024/_next/image?url=%2F2024%2Fassets%2Fimg%2Fmember%2Fhelisma-putri%2Fresult.png&w=256&q=75"
   },
   {
-    "rank": "33",
-    "name": "Dena Natalia",
-    "votes": "0 Suara",
-    "image": "https://ssk.jkt48.com/2024/_next/image?url=%2F2024%2Fassets%2Fimg%2Fmember%2Fdena-natalia%2Fresult.png&w=256&q=75"
+    "rank": "21",
+    "name": "Gabriela Abigail",
+    "votes": "15.797 Suara",
+    "image": "https://ssk.jkt48.com/2024/_next/image?url=%2F2024%2Fassets%2Fimg%2Fmember%2Fgabriela-abigail%2Fresult.png&w=256&q=75"
   },
   {
-    "rank": "34",
-    "name": "Desy Natalia",
-    "votes": "0 Suara",
-    "image": "https://ssk.jkt48.com/2024/_next/image?url=%2F2024%2Fassets%2Fimg%2Fmember%2Fdesy-natalia%2Fresult.png&w=256&q=75"
+    "rank": "22",
+    "name": "Febriola Sinambela",
+    "votes": "15.017 Suara",
+    "image": "https://ssk.jkt48.com/2024/_next/image?url=%2F2024%2Fassets%2Fimg%2Fmember%2Ffebriola-sinambela%2Fresult.png&w=256&q=75"
   },
   {
-    "rank": "35",
-    "name": "Fritzy Rosmerian",
-    "votes": "0 Suara",
-    "image": "https://ssk.jkt48.com/2024/_next/image?url=%2F2024%2Fassets%2Fimg%2Fmember%2Ffritzy-rosmerian%2Fresult.png&w=256&q=75"
+    "rank": "23",
+    "name": "Greesella Adhalia",
+    "votes": "14.256 Suara",
+    "image": "https://ssk.jkt48.com/2024/_next/image?url=%2F2024%2Fassets%2Fimg%2Fmember%2Fgreesella-adhalia%2Fresult.png&w=256&q=75"
   },
   {
-    "rank": "36",
-    "name": "Gendis Mayrannisa",
-    "votes": "0 Suara",
-    "image": "https://ssk.jkt48.com/2024/_next/image?url=%2F2024%2Fassets%2Fimg%2Fmember%2Fgendis-mayrannisa%2Fresult.png&w=256&q=75"
-  },
-  {
-    "rank": "37",
-    "name": "Hillary Abigail",
-    "votes": "0 Suara",
-    "image": "https://ssk.jkt48.com/2024/_next/image?url=%2F2024%2Fassets%2Fimg%2Fmember%2Fhillary-abigail%2Fresult.png&w=256&q=75"
-  },
-  {
-    "rank": "38",
-    "name": "Jazzlyn Trisha",
-    "votes": "0 Suara",
-    "image": "https://ssk.jkt48.com/2024/_next/image?url=%2F2024%2Fassets%2Fimg%2Fmember%2Fjazzlyn-trisha%2Fresult.png&w=256&q=75"
-  },
-  {
-    "rank": "39",
-    "name": "Jesslyn Elly",
-    "votes": "0 Suara",
-    "image": "https://ssk.jkt48.com/2024/_next/image?url=%2F2024%2Fassets%2Fimg%2Fmember%2Fjesslyn-elly%2Fresult.png&w=256&q=75"
-  },
-  {
-    "rank": "40",
-    "name": "Letycia Moreen",
-    "votes": "0 Suara",
-    "image": "https://ssk.jkt48.com/2024/_next/image?url=%2F2024%2Fassets%2Fimg%2Fmember%2Fletycia-moreen%2Fresult.png&w=256&q=75"
-  },
-  {
-    "rank": "41",
-    "name": "Lulu Salsabila",
-    "votes": "0 Suara",
-    "image": "https://ssk.jkt48.com/2024/_next/image?url=%2F2024%2Fassets%2Fimg%2Fmember%2Flulu-salsabila%2Fresult.png&w=256&q=75"
-  },
-  {
-    "rank": "42",
-    "name": "Michelle Alexandra",
-    "votes": "0 Suara",
-    "image": "https://ssk.jkt48.com/2024/_next/image?url=%2F2024%2Fassets%2Fimg%2Fmember%2Fmichelle-alexandra%2Fresult.png&w=256&q=75"
-  },
-  {
-    "rank": "43",
-    "name": "Michelle Levia",
-    "votes": "0 Suara",
-    "image": "https://ssk.jkt48.com/2024/_next/image?url=%2F2024%2Fassets%2Fimg%2Fmember%2Fmichelle-levia%2Fresult.png&w=256&q=75"
-  },
-  {
-    "rank": "44",
-    "name": "Nayla Suji",
-    "votes": "0 Suara",
-    "image": "https://ssk.jkt48.com/2024/_next/image?url=%2F2024%2Fassets%2Fimg%2Fmember%2Fnayla-suji%2Fresult.png&w=256&q=75"
-  },
-  {
-    "rank": "45",
-    "name": "Nina Tutachia",
-    "votes": "0 Suara",
-    "image": "https://ssk.jkt48.com/2024/_next/image?url=%2F2024%2Fassets%2Fimg%2Fmember%2Fnina-tutachia%2Fresult.png&w=256&q=75"
-  },
-  {
-    "rank": "46",
-    "name": "Oline Manuel",
-    "votes": "0 Suara",
-    "image": "https://ssk.jkt48.com/2024/_next/image?url=%2F2024%2Fassets%2Fimg%2Fmember%2Foline-manuel%2Fresult.png&w=256&q=75"
-  },
-  {
-    "rank": "47",
-    "name": "Raisha Syifa",
-    "votes": "0 Suara",
-    "image": "https://ssk.jkt48.com/2024/_next/image?url=%2F2024%2Fassets%2Fimg%2Fmember%2Fraisha-syifa%2Fresult.png&w=256&q=75"
-  },
-  {
-    "rank": "48",
-    "name": "Regina Wilian",
-    "votes": "0 Suara",
-    "image": "https://ssk.jkt48.com/2024/_next/image?url=%2F2024%2Fassets%2Fimg%2Fmember%2Fregina-wilian%2Fresult.png&w=256&q=75"
-  },
-  {
-    "rank": "49",
-    "name": "Ribka Budiman",
-    "votes": "0 Suara",
-    "image": "https://ssk.jkt48.com/2024/_next/image?url=%2F2024%2Fassets%2Fimg%2Fmember%2Fribka-budiman%2Fresult.png&w=256&q=75"
-  },
-  {
-    "rank": "50",
-    "name": "Shabilqis Naila",
-    "votes": "0 Suara",
-    "image": "https://ssk.jkt48.com/2024/_next/image?url=%2F2024%2Fassets%2Fimg%2Fmember%2Fshabilqis-naila%2Fresult.png&w=256&q=75"
-  },
-  {
-    "rank": "51",
-    "name": "Victoria Kimberly",
-    "votes": "0 Suara",
-    "image": "https://ssk.jkt48.com/2024/_next/image?url=%2F2024%2Fassets%2Fimg%2Fmember%2Fvictoria-kimberly%2Fresult.png&w=256&q=75"
+    "rank": "24",
+    "name": "Indira Seruni",
+    "votes": "14.027 Suara",
+    "image": "https://ssk.jkt48.com/2024/_next/image?url=%2F2024%2Fassets%2Fimg%2Fmember%2Findira-seruni%2Fresult.png&w=256&q=75"
   }
 ]
